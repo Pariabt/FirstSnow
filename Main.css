@@ -290,7 +290,7 @@
 }
 
 .red_bulb {
-  fill: #CA2128;
+  fill: blue;
   stroke: #6D6D6D;
   stroke-miterlimit: 10;
 }
@@ -302,7 +302,7 @@
 }
 
 .blue_bulb {
-  fill: #F5EED7;
+  fill: red;
   stroke: #6D6D6D;
   stroke-miterlimit: 10;
 }
