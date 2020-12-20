@@ -256,10 +256,10 @@
 		line-height: 3;
 	}
 	ul 
-	{	margin-left: 60px;
-		margin-top: 30px;
+	{	margin-top: 30px;
 		margin-bottom: 30px;
-		color: #A39995;
+		text-align: center;
+		color: #C5D0DD;
 		line-height: 2;
 	}
 	a
