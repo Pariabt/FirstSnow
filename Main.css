@@ -239,9 +239,8 @@
 	{	color: #A39995;
 	}
 	img 
-	{	
-    padding-top: 20px;
-    width: 100%;
+	{	padding-top: 20px;
+    		width: 100%;
 		position: initial;
 	}
 	.px-10
@@ -278,7 +277,7 @@
     margin: 0;
     width: 100%;
     z-index: 1000;
-    transform: rotate(-17deg);
+    transform: rotate(-25deg);
  }
 
 .light_cord {
