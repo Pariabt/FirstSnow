@@ -296,7 +296,7 @@
 }
 
 .green_bulb {
-  fill: #ffcc5e;
+  fill: #F5EED7;
   stroke: #6D6D6D;
   stroke-miterlimit: 10;
 }
@@ -308,7 +308,7 @@
 }
 
 .white_bulb {
-  fill: #F5EED7;
+  fill: #ffcc5e;
   stroke: #6D6D6D;
   stroke-miterlimit: 10;
 }
