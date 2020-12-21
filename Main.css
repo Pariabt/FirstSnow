@@ -296,13 +296,13 @@
 }
 
 .green_bulb {
-  fill: #F5EED7;
+  fill: red;
   stroke: #6D6D6D;
   stroke-miterlimit: 10;
 }
 
 .blue_bulb {
-  fill: red;
+  fill: #F5EED7;
   stroke: #6D6D6D;
   stroke-miterlimit: 10;
 }
